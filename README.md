@@ -2,9 +2,7 @@
 
 ## Project Summary
 This project is a banking analytics case study focused on detecting money laundering risks, analyzing customer churn, and forecasting financial trends.
-
 It uses data mining, predictive modeling, and time-series analysis to support compliance decisions, while also considering ethical issues like bias, privacy, and data security.
-
 The work is based on a simulated bank dataset and shows how to extract useful insights responsibly from financial data.
 
 ## Key Questions
