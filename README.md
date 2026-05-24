@@ -4,7 +4,7 @@
 This project is a banking analytics case study focused on detecting money laundering risks, analyzing customer churn, and forecasting financial trends.
 It uses data mining, predictive modeling, and time-series analysis to support compliance decisions, while also considering ethical issues like bias, privacy, and data security.
 The work is based on a simulated bank dataset.
-<img width="996" height="553" alt="image" src="https://github.com/user-attachments/assets/5ec54321-ac08-4f7e-b627-f7b60be8e338" />
+<img width="498" height="276" alt="image" src="https://github.com/user-attachments/assets/5ec54321-ac08-4f7e-b627-f7b60be8e338" />
 
 ## Key Questions
 - What factors most influence customer churn in a banking environment?
