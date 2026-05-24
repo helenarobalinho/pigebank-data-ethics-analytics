@@ -1,4 +1,5 @@
 # Pig E Bank Data Ethics & Analytics Case Study
+<img width="1139" height="622" alt="Screenshot 2026-05-22 at 18 37 31" src="https://github.com/user-attachments/assets/b3a93c62-e45e-44de-a711-6184a905c297" />
 
 ## Project Summary
 This project is a banking analytics case study focused on detecting money laundering risks, analyzing customer churn, and forecasting financial trends.
